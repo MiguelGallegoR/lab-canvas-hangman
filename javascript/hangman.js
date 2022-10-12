@@ -2,6 +2,15 @@ class Hangman {
   constructor(words) {
     this.words = words;
     // ... your code goes here
+    console.log('hola');
+    console.log('hola');
+    console.log('hola');
+    console.log('hola');
+    console.log('hola');
+    console.log('hola');
+    console.log('hola');
+    console.log('hola');
+    console.log('hola');
   }
 
   pickWord() {
